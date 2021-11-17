@@ -1,4 +1,4 @@
-FROM 7075/tomcat
+FROM 7075/tomcat:v1
 LABEL Author="swathi"
 LABEL description="Use dockertomcat image as base image for dockertomcat deployment"
 USER root
